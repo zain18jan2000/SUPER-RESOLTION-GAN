@@ -10,3 +10,7 @@ EDSR - https://github.com/Saafke/EDSR_Tensorflow/tree/master/models
 
 LAPSRN - https://github.com/fannymonori/TF-LapSRN/tree/master/export
 
+ESPCN - https://github.com/fannymonori/TF-ESPCN/tree/master/export
+
+FSRCNN - https://github.com/Saafke/FSRCNN_Tensorflow/tree/master/models
+
